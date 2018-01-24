@@ -12,11 +12,9 @@ The Project Report consists of:
 4. A list of all the join paths that exists within the relational database schema.
 5. A normalized relation schema, to 3NF.
 
-The SQL*PLUS statements that were written for the creation, insertion and querying of the database are:
-* src/add_complex_constraints
-* src/create.sql 
+The SQL*PLUS statements that were written for the creation, insertion of the database are:
+* * src/create.sql 
 * src/inserton.sql 
-* src/queries.sql
 
 
 ## Database Requirements
