@@ -1,6 +1,6 @@
 # University Database Design
 
-Individual graduate course work; Designed and implemented a database for a university environment in ORACLE SQL*PLUS.
+Designed and implemented a database for a university environment in ORACLE SQL*PLUS.
 
 ## Overview
 This project involves the design and implementation of a database for a real miniworld environment based on the given database requirements written in natural languages.
@@ -13,7 +13,7 @@ The Project Report consists of:
 5. A normalized relation schema, to 3NF.
 
 The SQL*PLUS statements that were written for the creation, insertion of the database are:
-* * src/create.sql 
+* src/create.sql 
 * src/inserton.sql 
 
 
